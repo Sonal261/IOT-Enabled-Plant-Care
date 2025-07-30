@@ -23,6 +23,7 @@ The system pushes real-time sensor data to the cloud for monitoring. You can tra
 - Soil moisture levels
 - Temperature and humidity
 - System activity (watering/fan status)
+(https://github.com/user-attachments/assets/3a91dfde-61ce-47c2-ba18-a1ed59f3f5ae)
 
 🎯 Goal
 To automate essential plant care tasks, save water, and maintain a healthy microenvironment for indoor or outdoor plants using affordable IoT technologies.
